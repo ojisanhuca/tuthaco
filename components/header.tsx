@@ -10,7 +10,7 @@ export default function HeaderComponent() {
   return (
     <header className="bg-white shadow-md px-4 lg:px-6 h-16 flex items-center fixed top-0 w-full z-50">
       <div className="container mx-auto flex justify-between items-center">
-        <Link className="flex items-center justify-center" href="#">
+        <Link className="flex items-center justify-center" href="/">
           <Image
             src="/images/tuthaco.png"
             alt="Tuthaco Logo"
