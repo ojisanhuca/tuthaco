@@ -28,7 +28,7 @@ export default function AboutUs() {
 						<div className="grid gap-12 lg:grid-cols-2 items-center mb-16">
 							<div>
 								<Image
-									src="/placeholder.svg?height=400&width=600"
+									src="/images/company-1.jpeg?height=400&width=600"
 									alt="Tuthaco Factory"
 									width={600}
 									height={400}
