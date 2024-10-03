@@ -176,13 +176,13 @@ export default function AboutUs() {
 							</p>
 							<div className="flex justify-center space-x-4">
 								<Button asChild size="lg">
-									<Link href="/products">
+									<Link href="/en/products">
 										Our Products
 										<ChevronRight className="ml-2 h-4 w-4" />
 									</Link>
 								</Button>
 								<Button asChild size="lg" variant="outline">
-									<Link href="/contact">
+									<Link href="/en/contact">
 										Contact Us
 										<ChevronRight className="ml-2 h-4 w-4" />
 									</Link>
